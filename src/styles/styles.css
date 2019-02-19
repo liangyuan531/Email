@@ -1,0 +1,29 @@
+.back {
+  width: 24px;
+  height: 24px;
+}
+.compose {
+  width: 24px;
+  height: 24px;
+}
+.title {
+  flex-grow: 2;
+}
+.navBar {
+  text-align: center;
+}
+.searchIcon {
+  float: left;
+}
+.searchInput {
+  color: "inherit";
+  width: "100%";
+}
+.search {
+  position: "relative";
+}
+.searchIcon {
+  position: "absolute";
+  display: "flex";
+  justify-content: "center";
+}
